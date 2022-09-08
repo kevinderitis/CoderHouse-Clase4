@@ -14,3 +14,5 @@ try {
 } catch (error) {
     throw new Error(`Error en lectura: ${error.message}`)
 }
+
+

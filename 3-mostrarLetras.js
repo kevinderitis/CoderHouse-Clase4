@@ -16,6 +16,8 @@ const fin = () => console.log('terminé')
 
 
 setTimeout(() => { mostrarLetras('hola', fin); }, 0)
-setTimeout(() => { mostrarLetras('hola', fin); }, 2500)
+setTimeout(() => { mostrarLetras('hola', fin); }, 250)
 setTimeout(() => { mostrarLetras('hola', fin); }, 500)
 
+
+// mostrarLetras('ejemplo', () => console.log('Termino el ejemplo'))

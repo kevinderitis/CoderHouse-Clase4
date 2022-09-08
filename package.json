@@ -1,12 +1,19 @@
 {
-  "name": "desafios-en-clase",
+  "name": "desafios",
   "version": "1.0.0",
   "description": "",
   "main": "1-operaciones.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinderitis/CoderHouse-Clase4.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinderitis/CoderHouse-Clase4/issues"
+  },
+  "homepage": "https://github.com/kevinderitis/CoderHouse-Clase4#readme"
 }
